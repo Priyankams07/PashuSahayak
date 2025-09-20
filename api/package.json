@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-constants": "^18.0.9",
+    "expo-firebase-core": "^6.0.0"
+  }
+}
